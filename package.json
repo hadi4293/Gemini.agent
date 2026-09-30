@@ -1,0 +1,11 @@
+{
+      "name": "github-gemini-agent",
+        "version": "1.0.0",
+          "description": "My AI Agent",
+            "dependencies": {
+                "@google/generative-ai": "^0.21.0",
+                    "@octokit/rest": "^20.0.0"
+                      }
+                      }
+
+}
